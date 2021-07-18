@@ -28,7 +28,7 @@ I publish my ideas in my Blog 🙍🏽‍♂️ [moonblog.ar](https://www.moonbl
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working in my Blog [moonblog.ar];
+- 👨🏽‍💻 I’m currently working in my Blog [moonblog.ar](https://www.moonblog.ar);
 - 🌱 I’m currently learning Fullstack React; 
 - 👯 I’m looking to collaborate on Open Source Codes;
 - 💬 Ask me about anything, I am happy to help;
@@ -44,6 +44,5 @@ I publish my ideas in my Blog 🙍🏽‍♂️ [moonblog.ar](https://www.moonbl
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/next/next.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
