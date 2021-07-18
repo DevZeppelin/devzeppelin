@@ -21,7 +21,8 @@
 <br />
 
 Hi! I'm Gino Pietrobon, front-end developer and JavaScript lover 💙.
-My Blog 🙍🏽‍♂️ [moonblog.ar](https://www.moonblog.ar) have more than 98% about perfomance, accesibily, best practices and SEO (acording Lighthouse🌟).
+<br />
+I publish my ideas in my Blog 🙍🏽‍♂️ [moonblog.ar](https://www.moonblog.ar) This web page have more than 98% about perfomance, accesibily, best practices and SEO (acording Lighthouse🌟).
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/cIjq3bGgpR2VlB9maL/giphy.gif" />
 
@@ -43,6 +44,6 @@ My Blog 🙍🏽‍♂️ [moonblog.ar](https://www.moonblog.ar) have more than 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/next/next.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
