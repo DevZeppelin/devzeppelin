@@ -1,16 +1,46 @@
-### Hi there 👋
 
-<!--
-**DevZeppelin/devzeppelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey 👋🏽, I'm [Gino!](https://devzeppelin.github.io) 
 
-Here are some ideas to get you started:
+<a href="https://twitter.com/moonwatcher73">
+  <img align="left" alt="Gino Pietrobon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/gino-pietrobon/">
+  <img align="left" alt="Gino Pietrobon LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.reddit.com/user/moonwatcher73">
+  <img align="left" alt="Gino Moonwatcher's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
+<a href="https://leetcode.com/moonwatcher73/">
+  <img align="left" alt="Gino's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+<a href="https://www.instagram.com/moonwatcher.dev/">
+  <img align="left" alt="Gino's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<br />
+
+Hi! I'm Gino Pietrobon, front-end developer and JavaScript lover 💙.
+My Blog 🙍🏽‍♂️ [moonblog.ar](https://www.moonblog.ar) have more than 98% about perfomance, accesibily, best practices and SEO (acording Lighthouse🌟).
+
+  <img align="right" alt="GIF" src="https://greekmeleehell.files.wordpress.com/2017/11/gif-4.gif" />
+
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently working in my Blog [moonblog.ar];
+- 🌱 I’m currently learning Fullstack React; 
+- 👯 I’m looking to collaborate on Open Source Codes;
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ I like listen a lot of podcast about: Economy, Bitcoin, Programming, Linux and Open Source;
+- 🌎 I like Criptocurrencies, Geopolitics, Literature;
+- 📫 How to reach me: gino.b.pietrobon@gmail.com;
+- 📝[My Blog](https://www.moonblog.ar)
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
