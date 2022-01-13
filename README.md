@@ -20,20 +20,21 @@
 <br />
 <br />
 
-Hi! I'm Gino Pietrobon, front-end developer and JavaScript lover 💙.
+Hi! I'm Gino Pietrobon, React developer and JavaScript lover 💙.
 <br />
-I publish my ideas in my Blog 🙍🏽‍♂️ [moonblog.ar](https://www.moonblog.ar) This web page have more than 98% about perfomance, accesibily, best practices and SEO (acording Lighthouse🌟).
+I publish my ideas in my Blog 🙍🏽‍♂️ [moonblog.ar](https://www.moonblog.ar) 
+I use JAM Stack for creating web sites with more than 98% about perfomance, accesibily, best practices and SEO (acording Lighthouse🌟).
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/cIjq3bGgpR2VlB9maL/giphy.gif" />
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working in my Blog [moonblog.ar](https://www.moonblog.ar);
-- 🌱 I’m currently learning Fullstack React; 
+- 👨🏽‍💻 I'm currently working in my WebSite [devzeppelin.ar](https://www.devzeppelin.ar);
+- 🌱 I’m currently learning Fullstack React and always new tecnologies; 
 - 👯 I’m looking to collaborate on Open Source Codes;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ I like listen a lot of podcast about: Economy, Bitcoin, Programming, Linux and Open Source;
-- 🌎 I like Criptocurrencies, Geopolitics, Literature;
+- ⚡️ I like listen a lot of podcast about: Economy, Tecnology, Bitcoin, Programming, Linux and Open Source;
+- 🌎 I like Criptocurrencies, Geopolitics, Literature, Traveling, Write and Bitcoin;
 - 📫 How to reach me: gino.b.pietrobon@gmail.com;
 - 📝[My Blog](https://www.moonblog.ar)
 
